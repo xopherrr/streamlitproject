@@ -1,0 +1,2 @@
+cmems_mod_glo_phy-thetao_anfc_0.083deg_P1D-m_1773955220875.nc filter=lfs diff=lfs merge=lfs -text
+*.nc filter=lfs diff=lfs merge=lfs -text
